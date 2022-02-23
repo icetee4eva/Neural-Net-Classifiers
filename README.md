@@ -1,2 +1,2 @@
 # Neural-Net-Classifiers
-Host of classification problems done with Neural Network
+Host of classification problems solved with Neural Network
